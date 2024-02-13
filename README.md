@@ -1,2 +1,2 @@
-# stella
+# Stella
 Obsidian Theme called Stella
